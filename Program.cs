@@ -1,6 +1,7 @@
 ﻿using System;
 using Npgsql;
 /////http://zetcode.com/csharp/postgresql/
+////////https://weblogs.asp.net/dixin/understanding-csharp-features-7-higher-order-function
 namespace EFGetStarted
 {
     class Program
