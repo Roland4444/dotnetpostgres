@@ -1222,11 +1222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/romanx/netcore/EFGetStarted/EFGetStarted.csproj",
+      "projectUniqueName": "/home/romanx/Documents/dotnetpostgres/EFGetStarted.csproj",
       "projectName": "EFGetStarted",
-      "projectPath": "/home/romanx/netcore/EFGetStarted/EFGetStarted.csproj",
+      "projectPath": "/home/romanx/Documents/dotnetpostgres/EFGetStarted.csproj",
       "packagesPath": "/home/romanx/.nuget/packages/",
-      "outputPath": "/home/romanx/netcore/EFGetStarted/obj/",
+      "outputPath": "/home/romanx/Documents/dotnetpostgres/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/romanx/.nuget/NuGet/NuGet.Config"
@@ -1239,6 +1239,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -1250,6 +1251,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -1276,12 +1278,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[3.1.13, 3.1.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

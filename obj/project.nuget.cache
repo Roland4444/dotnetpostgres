@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HT+f2vKqy3HWSDF5OJUZgI1mY1ZpoYD3GPvsnrOzhttWGJ4i0oupLN39eBBLqjIOKvqQgC8Jy0MhNv9hLKzYRQ==",
+  "dgSpecHash": "mrDRghlDCs0rj5PshHybXVNYcpUF1OZGDNaavfl5kd3mQNS/Ldl3+npV3nFG7v74xhSE8sItilo5RaazuPXaPQ==",
   "success": true,
-  "projectFilePath": "/home/romanx/netcore/EFGetStarted/EFGetStarted.csproj",
+  "projectFilePath": "/home/romanx/Documents/dotnetpostgres/EFGetStarted.csproj",
   "expectedPackageFiles": [
     "/home/romanx/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/home/romanx/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -38,7 +38,9 @@
     "/home/romanx/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "/home/romanx/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/home/romanx/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
-    "/home/romanx/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+    "/home/romanx/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/home/romanx/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/romanx/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.13/microsoft.netcore.app.host.linux-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }
